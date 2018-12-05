@@ -1,0 +1,7 @@
+[package]
+name = "kitten"
+version = "0.1.0"
+authors = ["Beta <web@stillinbeta.com>"]
+license = "MIT"
+
+[dependencies]
